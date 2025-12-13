@@ -1,4 +1,4 @@
-package parkinglot.parkinglot.entities.parkingticket;
+package parkinglot.entities.parkingticket;
 
 import java.time.Instant;
 

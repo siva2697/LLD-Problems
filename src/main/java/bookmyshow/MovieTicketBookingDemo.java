@@ -107,8 +107,6 @@ public class MovieTicketBookingDemo {
         service.addShow(show11);
         service.addShow(show12);
 
-
-
         Map<SeatType, Double> pricing1 = Map.of(
                 SeatType.REGULAR, 100.0,
                 SeatType.PREMIUM, 150.0

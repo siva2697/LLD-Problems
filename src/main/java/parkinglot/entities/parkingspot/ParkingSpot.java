@@ -1,4 +1,4 @@
-package parkinglot.parkinglot.entities.parkingspot;
+package parkinglot.entities.parkingspot;
 
 import parkinglot.entities.vehicle.Vehicle;
 

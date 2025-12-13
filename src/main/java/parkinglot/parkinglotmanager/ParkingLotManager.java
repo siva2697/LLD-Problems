@@ -1,4 +1,4 @@
-package parkinglot.parkinglot.parkinglotmanager;
+package parkinglot.parkinglotmanager;
 
 import parkinglot.assignmentstrategy.IAssignmentStrategy;
 import parkinglot.entities.parkingfloor.ParkingFloor;
