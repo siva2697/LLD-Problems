@@ -1,4 +1,4 @@
-package parkinglot.feestrategy;
+package parkinglot.parkinglot.feestrategy;
 
 import parkinglot.entities.parkingticket.ParkingTicket;
 

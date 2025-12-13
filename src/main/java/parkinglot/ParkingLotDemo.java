@@ -1,4 +1,4 @@
-package parkinglot;
+package parkinglot.parkinglot;
 
 import parkinglot.assignmentstrategy.FarthestFirstAssignmentStrategy;
 import parkinglot.assignmentstrategy.IAssignmentStrategy;
@@ -7,7 +7,7 @@ import parkinglot.entities.parkingfloor.ParkingFloor;
 import parkinglot.entities.parkingspot.ParkingSpot;
 import parkinglot.entities.parkingspot.ParkingSpotSize;
 import parkinglot.entities.parkingticket.ParkingTicket;
-import parkinglot.entities.vehicle.Bike;
+import problems.parkinglot.entities.vehicle.Bike;
 import parkinglot.entities.vehicle.Car;
 import parkinglot.entities.vehicle.Truck;
 import parkinglot.entities.vehicle.Vehicle;
